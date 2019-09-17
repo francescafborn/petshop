@@ -79,10 +79,5 @@ public class ControladorPetshop {
         }
         tabela.setModel(modelo);
     }
-
-    public static void alterar(ManutencaoPetshop aThis) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-
     
 }
